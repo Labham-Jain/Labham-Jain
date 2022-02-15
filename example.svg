@@ -1,26 +1,57 @@
 <svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        h1 {
-          color: red;
-          animation: mymove 2s infinite;
-        }
+    <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+    <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 
-        @keyframes mymove {
-          from {
-            color: red;
-          }
+    <head>
+      <meta content="text/html;charset=UTF-8" />
+      <title>My HTML</title>
+    </head>
 
-          to {
-            color: yellow;
-          }
-        }
-      </style>
-
+    <body>
+      <h1>MyHTML</h1>
+      <p id="mytext">Hello World! This is a test.</p>
+      <div>
+        <input type="button" value="Alert" onclick="displayAlert()" />
+        <input type="button" value="Say hello" onclick="showAndroidToast('Hello Android!')" />
+        <input type="button" value="Open Dialog" onclick="openAndroidDialog()" />
+        <input type="button" value="Add highlight" onclick="changeColor()" />
+      </div>
       <script type="text/javascript">
-        window.alert("Hii");
+        //<![CDATA[
+        function showAndroidToast(toast) {
+          JSInterface.showToast(toast);
+        }
+
+        function openAndroidDialog() {
+          JSInterface.openAndroidDialog();
+        }
+
+        function callFromActivity(msg) {
+          alert(msg);
+          var oldHTML = document.getElementById("mytext");
+          alert(oldHTML);
+          var newHTML = "<span style='color:#ff0000'>" + msg + "</span>";
+          alert(newHTML);
+          document.getElementById("mytext").innerHTML = newHTML;
+        }
+
+        function changeColor() {
+          var oldHTML = document.getElementById("mytext").innerHTML;
+          var newHTML = "<span style='color:#ff0000'>" + oldHTML + "</span>";
+          document.getElementById("mytext").innerHTML = newHTML;
+        }
+
+        function displayAlert() {
+
+          window.alert("I am here!");
+
+        }
+//]]>
       </script>
-    </div>
+
+    </body>
+
+    </html>
   </foreignObject>
 </svg>
