@@ -18,7 +18,9 @@
         }
       </style>
 
-      <video src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" />
+      <script type="text/javascript">
+        window.alert("Hii");
+      </script>
     </div>
   </foreignObject>
 </svg>
