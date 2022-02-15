@@ -5,7 +5,7 @@
     <div>
       <style>
         div {
-          font-family: 'Nunito', sans-serif;
+          font-family: sans-serif;
         }
 
         .checkpoint {
