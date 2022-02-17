@@ -20,6 +20,23 @@ I'm a web developer from India. Who loves to code, and current working as a free
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
+### Back-End Development
+
+![nodejs](https://img.shields.io/badge/NodeJS-6cc24a?style=for-the-badge&logo=Node.JS&logoColor=white)
+![websocket](https://img.shields.io/badge/Socket.io-ffffff?style=for-the-badge&logo=socket.io&logoColor=black)
+![firebase](https://img.shields.io/badge/FireBase-F5820D?style=for-the-badge&logo=FIrebase&logoColor=white)
+![express](https://img.shields.io/badge/Express-ffffff?style=for-the-badge&logo=express&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Favorite IDE
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### Version Control System
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
 ### Design Tools
 
 ![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
