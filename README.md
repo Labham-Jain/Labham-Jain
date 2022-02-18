@@ -54,6 +54,6 @@ I'm a web developer from India. Who loves to code, and current working as a free
 
 Currently I'm playing...
 
-![i_am_listening](https://raw.githubusercontent.com/Labham-Jain/i-am-listening-to/master/music-badge.svg)
+![i_am_listening](https://gracious-murdock-073b29.netlify.app/.netlify/functions/getimg)
 
 (This idea is originally created by @ShivamJoker)
