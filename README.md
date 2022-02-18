@@ -48,3 +48,12 @@ I'm a web developer from India. Who loves to code, and current working as a free
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Labham-Jain)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:business.coding.labham@gmail.com)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/labham_codes)
+
+
+## 🎧 Music
+
+Currently I'm playing...
+
+[![i_am_listening](https://raw.githubusercontent.com/Labham-Jain/i-am-listening-to/master/music-badge.svg)]
+
+(This idea is originally created by @ShivamJoker)
