@@ -1,5 +1,5 @@
 # Hello 👋
-I'm a web developer based in India, specializing in front-end development with a focus on React and JavaScript. With nearly 3 years of work & 6 years of total experience in the software engineering industry, I am passionate about coding and enjoy working on various web technologies.
+I'm a web developer based in India, specializing in front-end development with a focus on React and JavaScript. With 3 years of work & 6 years of total experience in the software engineering industry, I am passionate about coding and enjoy working on various web technologies.
 ## :hammer_and_wrench: Skills
 
 ### Languages
